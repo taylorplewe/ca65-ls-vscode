@@ -1,0 +1,1 @@
+This is intended to be the VSCode *client* for the ca65 language server
